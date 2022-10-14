@@ -1,16 +1,16 @@
 title = "RED JUMP";
 
-description = 
+description = `
 [Tap] Jump
-;
+`;
 
 characters = [
-  
+  `
 lllll
 lllll
 l   l
 l   l
-  
+  `
 ];
 
 options = {
